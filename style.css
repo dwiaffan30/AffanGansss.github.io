@@ -134,6 +134,7 @@ color: white;
     align-items: center;
     flex-direction: row;
     color: white;
+    bottom: 0;
 }
 
 a{
